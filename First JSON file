@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "First_name": "Vinoth",
+      "Last_name": "Kumar",
+      "email": "vinoth@abc.com"
+    },
+    {
+      "id": 2,
+      "First_name": "Chandler",
+      "Last_name": "Bing",
+      "email": "kumar@abc.com"
+    },
+    {
+      "id": 3,
+      "First_name": "Joey",
+      "Last_name": "Tribbiani",
+      "email": "joey@abc.com"
+    },
+    {
+      "id": 4,
+      "First_name": "Ross",
+      "Last_name": "Geller",
+      "email": "ross@abc.com"
+    }
+  ]
+}
